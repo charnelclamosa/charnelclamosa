@@ -21,11 +21,11 @@ PostgreSQL · TimescaleDB · MySQL · Firestore
 
 Google Cloud Platform · Docker · Linux · GitHub Actions · Grafana
 
-### 🎨 Frontend & Web
+### 🎨 Frontend, & Web
 
 ![](https://skillicons.dev/icons?i=vue,html,css,tailwind&theme=dark)
 
-Vue.js · HTML · CSS · Tailwind CSS
+Vue.js · HTML · CSS · Tailwind CSS · Hugo
 
 ## 🛠️ Personal Projects
 
