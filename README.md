@@ -3,29 +3,29 @@
 
 ## 🧰 Tech Stack
 
-### 🐍 Languages & APIs
+### 🐍 Languages, & APIs
 
 ![](https://skillicons.dev/icons?i=python,js,bash,r,fastapi,flask&theme=dark)
 
 Python · JavaScript · Bash · R · FastAPI · Flask · Falcon · REST APIs
 
-### 🗄️ Data & Databases
+### 🗄️ Databases
 
 ![](https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark)
 
-PostgreSQL · TimescaleDB · MySQL · Firestore · pandas
+PostgreSQL · TimescaleDB · MySQL · Firestore
 
-### ☁️ Cloud, DevOps & Monitoring
+### ☁️ Cloud, DevOps, & Monitoring
 
 ![](https://skillicons.dev/icons?i=gcp,docker,linux,githubactions,grafana&theme=dark)
 
-Google Cloud · Docker · Linux · GitHub Actions · Grafana
+Google Cloud Platform · Docker · Linux · GitHub Actions · Grafana
 
 ### 🎨 Frontend & Web
 
 ![](https://skillicons.dev/icons?i=vue,html,css,tailwind&theme=dark)
 
-Vue.js · HTML · CSS · Tailwind CSS · Hugo
+Vue.js · HTML · CSS · Tailwind CSS
 
 ## 🛠️ Personal Projects
 
