@@ -1,4 +1,4 @@
-[![GitHubCard profile card for charnelclamosa](https://githubcard.com/g/iDIsD5lzZ_O8M42D.svg)](https://githubcard.com/charnelclamosa/card?utm_source=github&utm_medium=readme)
+[![GitHubCard profile card for charnelclamosa](https://githubcard.com/charnelclamosa.svg?d=Az4ADQNkW3Y3)](https://githubcard.com/charnelclamosa/card?utm_source=github&utm_medium=readme)
 
 ## 🧰 Tech Stack
 
